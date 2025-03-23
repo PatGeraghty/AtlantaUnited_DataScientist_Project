@@ -2,12 +2,12 @@
 This repository contains all the relevant contents used to complete the project for the Atlanta United Data Scientist job opening.
 
 ## Files
-'ATL_DataScientist_Projects.R': The R script with all the written code for both projects. 
-'ATL_MatchStats.csv': The data file for Project 1 with player match level stats from MLS.
-'ATL_MatchSchedule.csv': The data file for Project 1 with metadata on MLS matches. 
-'ATL_player_mins_apps.csv': The data file for Project 2 with information on minutes and matches played for players in the league.
-'ATL_schedule.csv': The data file for Project 2 with metadata on the matches from the league. 
-'ATL_eventdata.rds' file was too large to upload to Github. You can download it from this Google Drive folder: https://drive.google.com/drive/folders/16Xna8CVBMwhpf5xfAwVQTPVB8ZONfrC1?usp=sharing
+1. 'ATL_DataScientist_Projects.R': The R script with all the written code for both projects.
+2. 'ATL_MatchStats.csv': The data file for Project 1 with player match level stats from MLS.
+3. 'ATL_MatchSchedule.csv': The data file for Project 1 with metadata on MLS matches. 
+4. 'ATL_player_mins_apps.csv': The data file for Project 2 with information on minutes and matches played for players in the league.
+5. 'ATL_schedule.csv': The data file for Project 2 with metadata on the matches from the league. 
+6. 'ATL_eventdata.rds' file was too large to upload to Github. You can download it from this Google Drive folder: https://drive.google.com/drive/folders/16Xna8CVBMwhpf5xfAwVQTPVB8ZONfrC1?usp=sharing
 
 ## Instructions 
 1. Open the R script in R studio.
