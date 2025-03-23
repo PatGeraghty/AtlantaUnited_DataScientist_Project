@@ -7,7 +7,7 @@ This repository contains all the relevant contents used to complete the project 
 3. 'ATL_MatchSchedule.csv': The data file for Project 1 with metadata on MLS matches. 
 4. 'ATL_player_mins_apps.csv': The data file for Project 2 with information on minutes and matches played for players in the league.
 5. 'ATL_schedule.csv': The data file for Project 2 with metadata on the matches from the league. 
-6. 'ATL_eventdata.rds' file was too large to upload to Github. You can download it from this Google Drive folder: https://drive.google.com/drive/folders/16Xna8CVBMwhpf5xfAwVQTPVB8ZONfrC1?usp=sharing
+6. 'ATL_eventdata.rds': Not uploaded here. The event data file for Projet 2. 
 
 ## Instructions 
 1. Open the R script in R studio.
